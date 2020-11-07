@@ -1,0 +1,7 @@
+C:\Users\sukru\source\repos\ConsoleApp1\Exercise2\bin\Debug\Exercise2.exe.config
+C:\Users\sukru\source\repos\ConsoleApp1\Exercise2\bin\Debug\Exercise2.exe
+C:\Users\sukru\source\repos\ConsoleApp1\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\sukru\source\repos\ConsoleApp1\Exercise2\obj\Debug\Exercise2.csprojAssemblyReference.cache
+C:\Users\sukru\source\repos\ConsoleApp1\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\sukru\source\repos\ConsoleApp1\Exercise2\obj\Debug\Exercise2.exe
+C:\Users\sukru\source\repos\ConsoleApp1\Exercise2\obj\Debug\Exercise2.pdb
